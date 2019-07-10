@@ -2,6 +2,8 @@ public abstract class  Player {
     private int health;
     private int damage;
 
+
+
     public int getHealth() {
         return health;
     }
